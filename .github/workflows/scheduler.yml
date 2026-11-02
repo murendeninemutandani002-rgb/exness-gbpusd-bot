@@ -22,4 +22,4 @@ jobs:
           pip install yfinance pandas numpy requests
 
       - name: Run Trading Bot
-        run: python bot.py
+        run: python bot1.py
